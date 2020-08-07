@@ -4,7 +4,7 @@
 - Currently working on energy efficiency analytics software
 - How to reach me:
   - [LinkedIn](http://linkedin.com/in/markjgreenwood)
-  - [Twitter](http://twitter.com/markgreenwood4
+  - [Twitter](http://twitter.com/markgreenwood4)
 
 <!--
 **markgreenwood/markgreenwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

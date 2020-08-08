@@ -1,4 +1,6 @@
-## Welcome! Glad you found me... 👋
+<h1 align="center">Welcome</h1>
+
+## Welcome! Glad you found me...
 
 - Pronouns: he/him
 - Currently working on energy efficiency analytics software

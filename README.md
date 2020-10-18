@@ -4,10 +4,15 @@
 ## Welcome! Glad you found me...
 
 - Pronouns: he/him
-- Currently working on energy efficiency analytics software
-- How to reach me:
-  - [LinkedIn](http://linkedin.com/in/markjgreenwood)
-  - [Twitter](http://twitter.com/markgreenwood4)
+
+## Currently working on
+
+- Energy efficiency analytics
+
+## How to reach me
+
+- [LinkedIn](http://linkedin.com/in/markjgreenwood)
+- [Twitter](http://twitter.com/markgreenwood4)
 
 <!--
 **markgreenwood/markgreenwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

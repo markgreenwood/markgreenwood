@@ -1,9 +1,8 @@
 <h1 align="center">Mark Greenwood</h1>
+<h3>pronouns: he/him</h3>
 <h2 align="center">Full-Stack Developer</h2>
 
-## Welcome! Glad you found me...
-
-- Pronouns: he/him
+# Welcome! Glad you found me...
 
 ## Currently working on
 

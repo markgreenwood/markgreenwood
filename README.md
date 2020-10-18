@@ -14,6 +14,8 @@
 - [LinkedIn](http://linkedin.com/in/markjgreenwood)
 - [Twitter](http://twitter.com/markgreenwood4)
 
+![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markgreenwood)
+
 <!--
 **markgreenwood/markgreenwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

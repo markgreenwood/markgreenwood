@@ -6,7 +6,7 @@
 
 ## Currently working on
 
-- Energy efficiency analytics
+- Energy efficiency and decarbonization analytics
 
 ## How to reach me
 

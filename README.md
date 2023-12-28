@@ -8,6 +8,18 @@
 
 - Energy efficiency and decarbonization analytics
 
+## Technologies I work in
+
+- JavaScript/TypeScript
+- Python
+- Scala
+- Rust
+- Node
+- React
+- AWS
+- Terraform
+- Kubernetes
+
 ## How to reach me
 
 - [LinkedIn](http://linkedin.com/in/markjgreenwood)

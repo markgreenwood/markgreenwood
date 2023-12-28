@@ -2,7 +2,7 @@
 <h4 align="center">pronouns: he/him</h4>
 <h2 align="center">Full-Stack Developer</h2>
 
-# Welcome! Glad you found me...
+# Welcome!
 
 ## Currently working on
 

@@ -15,7 +15,7 @@
 - Scala
 - Rust
 - Node
-- React
+- React/Remix
 - AWS
 - Terraform
 - Kubernetes

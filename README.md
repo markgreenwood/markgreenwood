@@ -1,10 +1,10 @@
 <h1 align="center">Mark Greenwood</h1>
 <h4 align="center">pronouns: he/him</h4>
-<h2 align="center">Full-Stack Developer</h2>
+<h2 align="center">Senior Full-Stack Software Engineer</h2>
 
 # Welcome!
 
-## Currently working on
+## Recently working on
 
 - Energy efficiency and decarbonization analytics
 
@@ -13,7 +13,6 @@
 - JavaScript/TypeScript
 - Python
 - Scala
-- Rust
 - Node
 - React/Remix
 - AWS
@@ -23,7 +22,6 @@
 ## How to reach me
 
 - [LinkedIn](http://linkedin.com/in/markjgreenwood)
-- [Twitter](http://twitter.com/markgreenwood4)
 
 ![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markgreenwood)
 

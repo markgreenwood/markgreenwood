@@ -4,10 +4,6 @@
 
 # Welcome!
 
-## Recently working on
-
-- Energy efficiency and decarbonization analytics
-
 ## Technologies I work in
 
 - JavaScript/TypeScript
@@ -22,6 +18,7 @@
 ## How to reach me
 
 - [LinkedIn](http://linkedin.com/in/markjgreenwood)
+- [GitHub](http://github.com/markgreenwood)
 
 <!--
 **markgreenwood/markgreenwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
